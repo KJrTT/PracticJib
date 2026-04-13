@@ -23,14 +23,5 @@
 ### Способ : Docker
 
 ```bash
-# Сборка образа
-docker build -t todo-app .
-
-# Создание директории для данных
-mkdir -p todo-data
-
-# Запуск контейнера
-docker run -it --rm \
-  -v $(pwd)/todo-data:/app/data \
-  --name todo-app \
-  todo-app
+  docker-compose run --rm todo-app
+```
