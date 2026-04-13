@@ -80,3 +80,17 @@ pre-commit run --all-files
 # Запустить проверки на конкретных файлах
 pre-commit run --files main.py storage.py
 ```
+
+
+<img width="678" height="167" alt="image" src="https://github.com/user-attachments/assets/c8e65ea6-234f-4456-aeb4-6bff73607518" />
+<img width="972" height="159" alt="image" src="https://github.com/user-attachments/assets/5858bd0f-0c76-4aa1-a579-8da9bab429a1" />
+<img width="1902" height="363" alt="image" src="https://github.com/user-attachments/assets/510a0793-4c18-4dc9-a76d-2687dacd62c7" />
+<img width="1849" height="383" alt="image" src="https://github.com/user-attachments/assets/074f1141-5d9d-49aa-b40a-ca25decd9aed" />
+<img width="610" height="227" alt="image" src="https://github.com/user-attachments/assets/a0997ae6-d0f6-4760-b23f-ba969c4c3c52" />
+<img width="867" height="672" alt="image" src="https://github.com/user-attachments/assets/38b4ac6a-a942-4aaa-9485-90d908c3a50e" />
+
+
+
+
+
+
