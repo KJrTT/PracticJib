@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  todo-app:
+    build: .
+    container_name: todo_list_app
+    stdin_open: true
+    tty: true
+    volumes:
+      - todo_data:/app/data
+    # Не используем read-only монтирование
+    restart: "no"
+
+volumes:
+  todo_data:
