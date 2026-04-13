@@ -1,0 +1,44 @@
+# Файлы данных (чтобы не копировать старые задачи)
+tasks.json
+tasks.json.backup
+*.backup
+
+# Виртуальные окружения
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Docker файлы
+Dockerfile
+.dockerignore
+docker-compose.yml
+docker-compose.yaml
+
+# Документация
+*.md
+!README.md
+
+# Тесты
+tests/
+test_*.py
+*_test.py
